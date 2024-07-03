@@ -105,6 +105,11 @@ h2 { margin-top: 0; }
     align-items: center;      
     font-size: 1.2rem;
 }
+.tm-page-link-home{
+    color: grey;
+    font-weight: bolder;
+    font-size: larger;
+}
 
 .tm-page-link:hover,
 .tm-page-link.active {
